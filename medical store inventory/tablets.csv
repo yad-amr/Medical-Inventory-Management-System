@@ -1,0 +1,49 @@
+id,name,dose,expiry,price,stock,supplier
+1,Paracetamol,10,2027-05-12,25,113,MedLife
+2,Ibuprofen,15,2026-11-20,40,80,HealthCorp
+3,Amoxicillin,20,2027-01-15,85,60,PharmaPlus
+4,Cetirizine,10,2026-09-30,18,200,MedLife
+5,Azithromycin,6,2027-03-22,120,45,HealWell
+6,Metformin,15,2028-02-10,55,150,DiabCare
+7,Atorvastatin,10,2027-12-01,95,75,CardioMed
+8,Pantoprazole,10,2026-08-14,60,90,GastroPlus
+9,Omeprazole,10,2027-06-18,50,110,GastroPlus
+10,Diclofenac,10,2026-10-05,35,140,MedLife
+11,Dolo 650,15,2027-04-11,30,180,HealthCorp
+12,Crocin,10,2026-12-25,28,130,MedLife
+13,Calpol,10,2027-07-19,32,160,MedLife
+14,Ranitidine,10,2026-09-10,22,95,GastroPlus
+15,Levocetirizine,10,2027-02-28,26,140,HealWell
+16,Montelukast,10,2028-01-12,75,70,RespiraCare
+17,Losartan,15,2027-10-03,65,85,CardioMed
+18,Amlodipine,10,2026-11-09,45,120,CardioMed
+19,Clopidogrel,10,2027-08-21,110,55,PharmaPlus
+20,Aspirin,20,2028-03-30,20,200,MedLife
+21,Glimepiride,10,2027-06-05,58,100,DiabCare
+22,Insulin Tab,5,2026-12-01,150,40,DiabCare
+23,Vitamin C,20,2028-05-15,35,180,NutriHealth
+24,Vitamin D3,10,2027-09-17,70,130,NutriHealth
+25,Zinc Tablets,15,2027-11-11,45,160,NutriHealth
+26,Folic Acid,20,2028-04-09,25,210,NutriHealth
+27,Iron Tablets,15,2027-03-01,38,170,NutriHealth
+28,Albendazole,2,2026-10-22,18,90,PharmaPlus
+29,Fluconazole,1,2027-01-29,75,60,PharmaPlus
+30,Ciprofloxacin,10,2027-05-08,90,80,HealWell
+31,Norfloxacin,10,2026-12-14,85,70,HealWell
+32,Loperamide,10,2027-08-02,20,150,MedLife
+33,Domperidone,10,2026-09-28,30,140,GastroPlus
+34,Ondansetron,10,2027-04-25,65,90,GastroPlus
+35,Tramadol,10,2027-02-14,110,50,PainRelief
+36,Aceclofenac,10,2026-11-18,55,100,PainRelief
+37,Naproxen,10,2027-06-30,60,95,PainRelief
+38,Hydroxychloroquine,10,2028-01-05,120,40,PharmaPlus
+39,Dexamethasone,10,2027-03-27,45,85,HealWell
+40,Prednisolone,10,2027-07-07,50,90,HealWell
+41,Loratadine,10,2026-10-12,25,160,MedLife
+42,Fexofenadine,10,2027-09-23,75,110,HealWell
+43,Clindamycin,10,2027-12-15,95,60,PharmaPlus
+44,Linezolid,10,2028-02-20,250,36,PharmaPlus
+45,Telmisartan,10,2027-11-03,80,70,CardioMed
+46,Rosuvastatin,10,2027-05-19,100,65,CardioMed
+47,Esomeprazole,10,2027-08-11,70,105,GastroPlus
+1,1,1,1,1,1,1

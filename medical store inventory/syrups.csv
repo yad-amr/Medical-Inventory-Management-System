@@ -1,0 +1,47 @@
+id,name,quantity,expiry,price,stock,supplier
+1,Benadryl Syrup,100,2027-06-12,85,120,MedLife
+2,Corex Syrup,100,2026-11-25,95,80,HealthCorp
+3,Ascoril Syrup,100,2027-03-15,110,60,PharmaPlus
+4,Alex Syrup,100,2026-09-10,90,140,HealWell
+5,TusQ Syrup,100,2027-08-22,105,75,HealWell
+6,Honitus Syrup,100,2028-01-05,120,90,HimalayaCare
+7,Grilinctus Syrup,100,2027-12-01,98,70,HealthCorp
+8,Zedex Syrup,100,2026-10-18,88,110,MedLife
+9,Cofsils Syrup,100,2027-04-30,92,130,MedLife
+10,Ambrolite Syrup,100,2027-07-14,100,95,GastroPlus
+11,Mucolite Syrup,100,2026-12-20,85,150,GastroPlus
+12,Brox Syrup,100,2027-05-09,78,160,PharmaPlus
+13,Phensedyl Syrup,100,2027-09-19,115,50,HealWell
+14,Toplex Syrup,100,2026-11-11,90,85,MedLife
+15,Koflet Syrup,100,2027-02-25,75,140,HimalayaCare
+16,Dexorange Syrup,200,2028-03-10,135,65,NutriHealth
+17,Liv 52 Syrup,200,2027-10-03,140,90,HimalayaCare
+18,Zincovit Syrup,200,2027-08-28,125,100,NutriHealth
+19,Calcium Syrup,200,2026-12-15,110,120,NutriHealth
+20,Iron Syrup,200,2027-06-05,115,130,NutriHealth
+21,Vitamin C Syrup,200,2028-04-18,105,150,NutriHealth
+22,Multivitamin Syrup,200,2027-09-07,130,140,NutriHealth
+23,Digene Syrup,150,2026-10-29,95,160,GastroPlus
+24,Gelusil Syrup,150,2027-01-17,100,110,GastroPlus
+25,Eno Liquid,150,2027-05-11,85,180,GastroPlus
+26,Cremaffin Syrup,200,2027-11-20,120,90,GastroPlus
+27,Duphalac Syrup,200,2028-02-14,150,70,GastroPlus
+28,Lactulose Syrup,200,2027-07-08,135,60,GastroPlus
+29,Ibuprofen Syrup,100,2026-09-25,80,100,HealthCorp
+30,Paracetamol Syrup,100,2027-03-30,75,200,MedLife
+31,Calpol Syrup,100,2027-06-12,78,180,MedLife
+32,Crocin Syrup,100,2026-11-18,82,170,MedLife
+34,Azithral Syrup,100,2027-12-21,140,50,PharmaPlus
+35,Augmentin Syrup,100,2028-01-15,160,40,PharmaPlus
+36,Cefixime Syrup,100,2027-05-19,150,60,PharmaPlus
+37,Amoxicillin Syrup,100,2026-12-30,130,70,PharmaPlus
+38,Clavam Syrup,100,2027-09-03,155,55,PharmaPlus
+39,Ondem Syrup,100,2027-04-07,95,90,GastroPlus
+40,Emeset Syrup,100,2026-10-14,100,85,GastroPlus
+41,Domstal Syrup,100,2027-02-28,105,95,GastroPlus
+42,Perinorm Syrup,100,2027-07-25,98,100,GastroPlus
+43,Allegra Syrup,100,2027-11-09,120,75,HealWell
+44,Zyrtec Syrup,100,2026-12-22,110,80,HealWell
+45,Montair Syrup,100,2027-08-16,130,65,RespiraCare
+46,Levolin Syrup,100,2027-03-11,125,70,RespiraCare
+47,Asthalin Syrup,100,2027-06-27,115,85,RespiraCare

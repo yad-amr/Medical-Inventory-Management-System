@@ -1,0 +1,48 @@
+id,name,volume,type,expiry,price,stock,supplier
+1,Ceftriaxone Injection,10ml,M,2027-06-12,85,120,PharmaPlus
+2,Amikacin Injection,2ml,S,2026-11-25,95,80,HealthCorp
+3,Gentamicin Injection,2ml,S,2027-03-15,70,100,MedLife
+4,Diclofenac Injection,3ml,S,2026-09-10,40,150,MedLife
+5,Paracetamol Injection,100ml,L,2027-08-22,120,75,HealWell
+6,Insulin Injection,10ml,M,2028-01-05,250,60,DiabCare
+7,Heparin Injection,5ml,M,2027-12-01,300,40,CardioMed
+8,Atropine Injection,1ml,S,2026-10-18,55,90,MedLife
+9,Adrenaline Injection,1ml,S,2027-04-30,60,110,MedLife
+10,Oxytocin Injection,1ml,S,2027-07-14,45,95,HealWell
+11,Dexamethasone Injection,2ml,S,2026-12-20,50,130,HealWell
+12,Hydrocortisone Injection,5ml,M,2027-05-09,90,85,HealWell
+13,Vitamin B12 Injection,2ml,S,2027-09-19,75,100,NutriHealth
+14,Iron Sucrose Injection,5ml,M,2026-11-11,180,70,NutriHealth
+15,Calcium Gluconate Injection,10ml,M,2027-02-25,65,120,NutriHealth
+16,Magnesium Sulfate Injection,10ml,M,2028-03-10,55,140,NutriHealth
+17,Pantoprazole Injection,40mg,M,2027-10-03,110,90,GastroPlus
+18,Omeprazole Injection,40mg,M,2027-08-28,105,80,GastroPlus
+19,Ranitidine Injection,2ml,S,2026-12-15,35,150,GastroPlus
+20,Ondansetron Injection,2ml,S,2027-06-05,85,100,GastroPlus
+21,Metoclopramide Injection,2ml,S,2028-04-18,60,120,GastroPlus
+22,Tramadol Injection,2ml,S,2027-09-07,95,70,PainRelief
+23,Morphine Injection,1ml,S,2026-10-29,250,30,PainRelief
+24,Midazolam Injection,1ml,S,2027-01-17,200,50,PainRelief
+25,Propofol Injection,20ml,L,2027-05-11,500,25,AnesthesiaCare
+26,Ketamine Injection,10ml,M,2027-11-20,350,40,AnesthesiaCare
+27,Thiopental Injection,20ml,L,2028-02-14,450,20,AnesthesiaCare
+28,Ampicillin Injection,10ml,M,2027-07-08,120,60,PharmaPlus
+29,Cefotaxime Injection,10ml,M,2026-09-25,130,55,PharmaPlus
+30,Meropenem Injection,20ml,L,2027-03-30,900,15,PharmaPlus
+31,Vancomycin Injection,10ml,M,2027-06-12,850,20,PharmaPlus
+32,Linezolid Injection,10ml,M,2026-11-18,700,25,PharmaPlus
+33,Clindamycin Injection,4ml,S,2027-08-09,150,45,PharmaPlus
+34,Azithromycin Injection,10ml,M,2027-12-21,300,30,PharmaPlus
+35,Levofloxacin Injection,100ml,L,2028-01-15,250,35,HealWell
+36,Ciprofloxacin Injection,100ml,L,2027-05-19,220,50,HealWell
+37,Dopamine Injection,5ml,M,2026-12-30,180,60,CardioMed
+38,Dobutamine Injection,5ml,M,2027-09-03,200,55,CardioMed
+39,Noradrenaline Injection,2ml,S,2027-04-07,220,40,CardioMed
+40,Furosemide Injection,2ml,S,2026-10-14,50,140,CardioMed
+41,Mannitol Injection,100ml,L,2027-02-28,180,65,CardioMed
+42,Phenytoin Injection,5ml,M,2027-07-25,120,70,NeuroCare
+43,Diazepam Injection,2ml,S,2027-11-09,90,85,NeuroCare
+44,Lorazepam Injection,2ml,S,2026-12-22,100,75,NeuroCare
+45,Sodium Bicarbonate Injection,10ml,M,2027-08-16,60,110,MedLife
+46,Potassium Chloride Injection,10ml,M,2027-03-11,70,100,MedLife
+47,Glucose Injection,500ml,L,2027-06-27,150,90,MedLife
