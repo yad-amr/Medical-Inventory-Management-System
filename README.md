@@ -1,4 +1,4 @@
-# 🏥 CLI-Based Medical Store Inventory System
+# 🏥 Medical Store Inventory System -CLI
 
 ## 📌 Overview
 
