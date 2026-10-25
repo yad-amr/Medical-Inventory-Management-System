@@ -6,12 +6,10 @@ Important Instructions -
 5. If you encounter any bugs or void feature(s), kindly report to provided mail address.
 
 Pending Updates- 
-1. Login feature unavailable
-2. Sales management, Supplier Contact Page Unavailable.
+1. Sales management, Supplier Contact Page Unavailable.
  
 However, you can contribute and add these and yours features as per your choice by forking this repository.
 
 Thank You, Happy Inventoring
 
-MADE WITH LOVE, FOR YOU.
 By- github.com/yad-amr
