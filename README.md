@@ -132,8 +132,6 @@ This system also includes an **authentication module**, ensuring that only autho
 
 ## 📈 Future Enhancements
 
-* Password encryption for better security
-* Role-based access (Admin/User)
 * GUI-based version
 * Database integration (MySQL)
 * Expiry alerts for medicines
