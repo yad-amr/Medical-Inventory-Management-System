@@ -72,7 +72,7 @@ This system also includes an **authentication module**, ensuring that only autho
 
 1. **User Login**
 
-   * User enters username and password
+   * User enters username (default = admin) and password (default = admin)
    * System verifies credentials from `users.csv`
 
 2. **Menu-Driven CLI**
